@@ -1,5 +1,5 @@
 [project]
-name = "huggingface"
+name = "iflow-mcp_huggingface"
 version = "0.1.0"
 description = "Hugging Face MCP Server"
 readme = "README.md"
